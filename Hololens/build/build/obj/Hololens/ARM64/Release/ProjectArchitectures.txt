@@ -1,0 +1,1 @@
+C:\Users\qnsdm\OneDrive\바탕 화면\AR\Hololens\build\Hololens\Hololens.vcxproj;arm64
