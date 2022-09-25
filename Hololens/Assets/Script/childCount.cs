@@ -8,13 +8,22 @@ public class childCount : MonoBehaviour
     public GameObject ThirdAudio;
 
     public static childCount instance;
+    
+    bool Count(int count)
+    {
+        if ((this.transform.childCount >= count) && a)
+            return true;
+        else
+            return false;
+    }
+
     void Awake()
     {
     }
     // Update is called once per frame
     void Update()
     {
-        if ((this.transform.childCount >= 4) && a)
+        if (Count(4))
         {
             ThirdAudio.SetActive(true);
             a = false;
