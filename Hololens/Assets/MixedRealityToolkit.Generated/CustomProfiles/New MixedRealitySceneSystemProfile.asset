@@ -15,20 +15,20 @@ MonoBehaviour:
   isCustomProfile: 1
   useManagerScene: 0
   managerScene:
-    Name: Menu
-    Path: Assets/Scenes/Menu.unity
-    Included: 1
-    BuildIndex: 0
+    Name: FSE
+    Path: Assets/Scenes/FSE.unity
+    Included: 0
+    BuildIndex: -1
     Tag: Untagged
     Asset: {fileID: 102900000, guid: 97322cd65b1c5de4299551b45e1130c5, type: 3}
   useLightingScene: 0
   defaultLightingSceneIndex: 0
   lightingScenes: []
   contentScenes:
-  - Name: Menu
-    Path: Assets/Scenes/Menu.unity
-    Included: 1
-    BuildIndex: 0
+  - Name: FSE
+    Path: Assets/Scenes/FSE.unity
+    Included: 0
+    BuildIndex: -1
     Tag: Untagged
     Asset: {fileID: 102900000, guid: 97322cd65b1c5de4299551b45e1130c5, type: 3}
   - Name: Fire Extinguisher
