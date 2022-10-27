@@ -17,18 +17,18 @@ MonoBehaviour:
   managerScene:
     Name: FSE
     Path: Assets/Scenes/FSE.unity
-    Included: 0
-    BuildIndex: -1
+    Included: 1
+    BuildIndex: 0
     Tag: Untagged
     Asset: {fileID: 102900000, guid: 97322cd65b1c5de4299551b45e1130c5, type: 3}
   useLightingScene: 0
-  defaultLightingSceneIndex: 0
+  defaultLightingSceneIndex: -1
   lightingScenes: []
   contentScenes:
   - Name: FSE
     Path: Assets/Scenes/FSE.unity
-    Included: 0
-    BuildIndex: -1
+    Included: 1
+    BuildIndex: 0
     Tag: Untagged
     Asset: {fileID: 102900000, guid: 97322cd65b1c5de4299551b45e1130c5, type: 3}
   - Name: Fire Extinguisher
