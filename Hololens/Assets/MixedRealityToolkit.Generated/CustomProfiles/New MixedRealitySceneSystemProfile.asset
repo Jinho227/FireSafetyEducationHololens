@@ -22,7 +22,7 @@ MonoBehaviour:
     Tag: Untagged
     Asset: {fileID: 102900000, guid: 97322cd65b1c5de4299551b45e1130c5, type: 3}
   useLightingScene: 0
-  defaultLightingSceneIndex: -1
+  defaultLightingSceneIndex: 0
   lightingScenes: []
   contentScenes:
   - Name: FSE
