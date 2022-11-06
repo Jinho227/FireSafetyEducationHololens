@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class childCount : MonoBehaviour
 {
@@ -19,6 +20,7 @@ public class childCount : MonoBehaviour
 
     void Awake()
     {
+
     }
     // Update is called once per frame
     void Update()
