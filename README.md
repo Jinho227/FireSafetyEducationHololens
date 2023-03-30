@@ -11,7 +11,9 @@ Microsoft의 Hololens2로 개발한 소방안전 교육 콘텐츠로 소화, 응
 응급처치 시뮬레이션
 <img src="./screenshots/FirstAid.png">
 통보 및 피난 시뮬레이션
-<img src="./screenshots/Notification&Evacuation.png">
+<img src="./screenshots/Notification&Evacuation.png">  
+[youtube](https://youtu.be/mhnzKxHaM4U)
+
 
 ## How to Play
 메뉴에서 콘텐츠를 선택할 수 있다.  
